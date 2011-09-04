@@ -13,7 +13,7 @@
         <table class="zebra-striped">
           <thead>
             <tr>
-              <th>User</th>
+              <th>User &amp; Server</th>
               <th>IP Address</th>
               <th>Location</th>
               <th># of Connections</th>
@@ -22,28 +22,28 @@
           </thead>
           <tbody>
             <tr>
-              <td>todd</td>
+              <td>todd @ dev-aws</td>
               <td>123.129.21.31</td>
               <td>Chicago, USA</td>
               <td>4 connections</td>
-              <td>since 12:30pm gmt</td>
+              <td>since 12:30pm GMT</td>
             </tr>
             <tr>
-              <td>bob</td>
+              <td>bob @ prod-web-1</td>
               <td>28.189.23.1</td>
               <td>Seattle, USA</td>
               <td>1 connection</td>
               <td>1h 30m</td>
             </tr>
             <tr>
-              <td>jason</td>
+              <td>jason @ dev-aws</td>
               <td>82.100.19.92</td>
               <td>Boston, USA</td>
               <td>4 connections</td>
               <td>48m</td>
             </tr>
             <tr>
-              <td>todd</td>
+              <td>todd @ prod-mysql-2</td>
               <td>123.129.21.31</td>
               <td>Chicago, USA</td>
               <td>2 connections</td>
@@ -70,35 +70,21 @@
             <tr>
               <td>128.21.29.81</td>
               <td>Bucharest, Romania</td>
-              <td>Attempted NMAP portscan [hit 17 ports]</td>
-              <td>Aug 30, 2011 8:23pm gmt</td>
+              <td>Attempted NMAP port scan [hit 17 ports]</td>
+              <td>Aug 30, 2011 8:23pm GMT</td>
             </tr>
           </tbody>
             <tr>
               <td>99.11.84.49</td>
               <td>Istanbul, Turkey</td>
               <td>Bruteforce SSH attack [banned after 3 attempts]</td>
-              <td>Aug 30, 2011 4:19pm gmt</td>
+              <td>Aug 30, 2011 4:19pm GMT</td>
             </tr>
           </tbody>
         </table>
-      </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-    <script>
-      $('.boot').hover( function(){
-        if ( $(this).hasClass('success') )
-          $(this).text( 'don\'t start on boot' );
-        else
-          $(this).text( 'start on boot' );
-        $(this).toggleClass( 'success' ).toggleClass( 'danger' );
-      }, function(){
-        if ( $(this).hasClass('success') )
-          $(this).text( 'is not started' );
-        else
-          $(this).text( 'started on boot' );
-        $(this).toggleClass( 'success' ).toggleClass( 'danger' );
-      } );
-    </script>
+        <a class="btn" href="#">view all 259 banned IP Addresses &raquo;</a>
+
+      </div>
 
 <? require 'footer.php'; ?>

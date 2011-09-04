@@ -85,21 +85,5 @@
 
       </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-    <script>
-      $('.boot').hover( function(){
-        if ( $(this).hasClass('success') )
-          $(this).text( 'don\'t start on boot' );
-        else
-          $(this).text( 'start on boot' );
-        $(this).toggleClass( 'success' ).toggleClass( 'danger' );
-      }, function(){
-        if ( $(this).hasClass('success') )
-          $(this).text( 'is not started' );
-        else
-          $(this).text( 'started on boot' );
-        $(this).toggleClass( 'success' ).toggleClass( 'danger' );
-      } );
-    </script>
-
+<? $js = true; ?>
 <? require 'footer.php'; ?>
