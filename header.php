@@ -12,8 +12,8 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="bootstrap-1.1.1.min.css" rel="stylesheet">
-    <link href="prettify.css" rel="stylesheet">
+    <link href="/css/bootstrap-1.1.1.min.css" rel="stylesheet">
+    <link href="/css/prettify.css" rel="stylesheet">
 
     <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="images/favicon.ico">

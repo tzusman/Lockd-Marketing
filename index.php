@@ -2,7 +2,7 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>Enterprise Security, fast!</h1>
+        <h1>Enterprise Security, easy!</h1>
         <br />
         <p>Lockd ensures that your servers are secure. We employ industry leading tactics to prevent and detect malicious activity. Benefit from bank level security for $10 per server, charged monthly.</p>
         <br />
@@ -17,12 +17,12 @@
       <div class="row">
         <div class="span6">
           <h2>Secure Firewall</h2>
-          <p>Manage which programs can be accessed from the internet. Only allow traffic to some programs from IP addresses you specify. We will walk you through the most effective way to lock down your server - in minutes!</p>
+          <p>Manage which programs can be accessed from the internet. Only allow traffic to critical services from secure IP addresses that you specify. We will walk you through the most effective way to lock down your server! All this can be done while waiting for coffee to brew!</p>
           <p><a class="btn" href="/firewall.php">Learn more &raquo;</a></p>
         </div>
         <div class="span5">
           <h2>Program Manager</h2>
-           <p>Vulnerabilities are often caused by out of date programs that were never properly disabled. In seconds, you will have a complete overview of what programs are running.  You will also be alerted to any security issues that are detected.</p>
+           <p>Vulnerabilities are often caused by out of date programs that were never properly disabled. In seconds, you will have a complete overview of what programs are running.  You will also be alerted immediately of any security issues that are detected.</p>
           <p><a class="btn" href="/program_manager.php">Learn more &raquo;</a></p>
        </div>
         <div class="span5">

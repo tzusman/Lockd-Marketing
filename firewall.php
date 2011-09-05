@@ -16,7 +16,7 @@
           </div>
           <div class="span5">
             <h2>Complete Logging</h2>
-             <p>Lockd monitors all traffic which gets processed by your servers. If we detect malicious activity, appropriate action to ban or restrict the attacker will be made automatically.  You will receive a weekly email digest of the changes we made to protect your system.</p>
+             <p>Lockd monitors all traffic which gets processed by your servers. If malicious activity is detected, appropriate action action is taken to ban or restrict the attacker, automatically.  You will receive a weekly email digest of the measures Lockd has taken to protect your system.</p>
          </div>
           <div class="span5">
             <h2>Default Deny</h2>
@@ -28,6 +28,6 @@
 
       <p>Install Lockd with <strong>one command</strong> and enjoy a level of security only accessible to banks, until now.</p>
       <pre class="prettyprint">wget http://lockd.co/bootstrap.sh | sh</pre>
-      <p>Start a free demo by running this command on one of your servers.</p>
+      <p>Start a <strong>free demo</strong> by running this command on one of your servers.</p>
 
 <? require 'footer.php'; ?>
