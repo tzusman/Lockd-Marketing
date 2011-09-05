@@ -2,9 +2,11 @@
     
         <div class="alert-message warning" style="margin: 80px 0 -20px;">
           <a class="close" href="#">×</a>
-          <p><strong>Vulnerability Detected!</strong> You should restrict MySQL access to only a few servers.</p>
+          <p><strong>Recommended Security Improvement</strong> MySQL should only be accessible from your servers. Currently MySQL is accessible globally.</p>
           <div class="alert-actions">
-            <a class="btn small" href="#">Configure Access</a> <a class="btn small" href="#">Ignore this warning</a>
+            <a class="btn small primary" href="#">Configure Access</a>
+            <a class="btn small" href="#">Learn More</a>
+            <a class="btn small" href="#">Ignore this Warning</a>
           </div>
         </div>
 

@@ -1,10 +1,11 @@
 <? require 'header.php'; ?>
 
-        <div class="alert-message warning" style="margin: 80px 0 -20px;">
+        <div class="alert-message error" style="margin: 80px 0 -20px;">
           <a class="close" href="#">×</a>
           <p><strong>Vulnerability Detected!</strong> Memcached is accessible to the global internet. You should restrict access to only your servers.</p>
           <div class="alert-actions">
-            <a class="btn small" href="#">Configure Access</a> <a class="btn small" href="#">Ignore this warning</a>
+            <a class="btn small" href="#">Configure Access</a>
+            <a class="btn small" href="#">Ignore this Warning</a>
           </div>
         </div>
 
@@ -82,6 +83,7 @@
           <li>SSH rate limiting. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
           <li>Extensive logging. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
           <li>"Default Deny" policy. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+        </ul>
 
       </div>
 
