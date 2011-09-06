@@ -4,7 +4,7 @@
       <div class="hero-unit">
         <h1>A bodyguard for your server</h1>
         <br />
-        <p>Lockd actively monitors who is accessing your server. We keep detailed logs of who is active on your servers, and from where they are logging on.  Potential hackers will be automatically banned from accessing your server, and you will be provided with a detailed report.</p>
+        <p>Lockd actively monitors who is accessing your server. We keep detailed logs of who logs in and from where.  Potential hackers will be automatically banned from accessing your server, and you will be provided with a detailed report emailed weekly.</p>
         <br />
         <p><a class="btn primary large">Signup for Free &raquo;</a></p>
        
@@ -28,6 +28,6 @@
 
       <p>Install Lockd with <strong>one command</strong> and enjoy a level of security only accessible to banks, until now.</p>
       <pre class="prettyprint">wget http://lockd.co/bootstrap.sh | sh</pre>
-      <p>Start a free demo by running this command on one of your servers.</p>
+      <p>Start a <strong>free demo</strong> by running this command on one of your servers.</p>
 
 <? require 'footer.php'; ?>

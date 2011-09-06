@@ -8,14 +8,17 @@
 
     </div> <!-- /container -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-    <script type="text/javascript">
+    <script src="jquery.min.js"></script>
+    <script>
       $(function(){
         $('#btnDropdown').click( function(){
           $(this).next().toggle();
         } );
       });
     </script>
+    <? if ( isset($js) && $js ): ?>
+    <script src="js/<?= str_replace('.php','.js',basename($_SERVER['PHP_SELF'])); ?>"></script>
+    <? endif; ?>
 
   </body>
 </html>
