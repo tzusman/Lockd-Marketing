@@ -25,17 +25,17 @@
             </div>
             <div class="alert-message warning">
               <strong>load-balancer-1</strong>
-              <span style="float: right;">semi-secure - checked at 5:08pm</span>
+              <span style="float: right;">3 notices - checked at 5:08pm</span>
             </div>
           </div>
           <div class="span7 columns">
             <div class="alert-message warning">
               <strong>web-prod-1</strong>
-              <span style="float: right;">semi-secure - checked at 5:12pm</span>
+              <span style="float: right;">5 notices - checked at 5:12pm</span>
             </div>
             <div class="alert-message warning">
               <strong>web-prod-2</strong>
-              <span style="float: right;">semi-secure - checked at 5:11pm</span>
+              <span style="float: right;">2 notices - checked at 5:11pm</span>
             </div>
             <div class="alert-message error">
               <strong>web-prod-3</strong>
