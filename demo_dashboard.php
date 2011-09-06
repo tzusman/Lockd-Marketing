@@ -1,6 +1,5 @@
 <? require 'header.php'; ?>
 
-
       <div class="hero-unit">
 
         <h2>Security Dashboard</h2>
