@@ -2,7 +2,7 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>A cockpit for your server</h1>
+        <h1>Your Server's Cockpit</h1>
         <br />
         <p>Lockd enables you to monitor all the programs running on your server. Unncessary programs create unnessary vulnerabilities, so keeping an eye on all running programs will make your servers more secure. An added benefit is ensuring that your servers are using their resources as efficiently as possible.</p>
         <br />
