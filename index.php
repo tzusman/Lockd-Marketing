@@ -1,19 +1,17 @@
 <? require 'header.php'; ?>
 
-      <!-- Main hero unit for a primary marketing message or call to action -->
-      <div class="hero-unit">
-        <h1>Enterprise Security, easy!</h1>
+      <div class="hero-unit" style="margin-top: 80px;">
+        <h1>Enterprise Security, done.</h1>
         <br />
-        <p>Lockd ensures that your servers are secure. We employ industry leading tactics to prevent and detect malicious activity. Benefit from bank level security for $10 per server, charged monthly.</p>
+        <p>Fortress.io ensures that your servers are secure. We employ industry leading tactics to prevent and detect malicious activity. Benefit from bank level security for $10 per server, charged monthly.</p>
         <br />
         <p><a class="btn primary large">Signup for Free &raquo;</a></p>
         <br /> <br />
-        <p>Install Lockd with <strong>one command</strong> and enjoy a level of security only accessible to banks, until now.</p>
-        <pre class="prettyprint">wget http://lockd.co/bootstrap.sh | sh</pre>
-        <p>Start a <strong>free demo</strong> by running this command on one of your servers.</p>
+        <p>Install Fortress.io with <strong>one command</strong> and enjoy a level of security only accessible to banks, until now.</p>
+        <pre class="prettyprint">wget http://fortress.io/bootstrap.sh | sh</pre>
+        <p>Use Fortress.io <strong>free for 2 months</strong> by running this command on one of your servers.</p>
       </div>
 
-      <!-- Example row of columns -->
       <div class="row">
         <div class="span6">
           <h2>Secure Firewall</h2>

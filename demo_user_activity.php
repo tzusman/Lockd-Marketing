@@ -1,12 +1,12 @@
 <? require 'header.php'; ?>
 
-        <div class="alert-message success" style="margin: 80px 0 -20px;">
+        <div class="alert-message success" style="margin: 60px 0 0;">
           <a class="close" href="#">×</a>
-          <p><strong>Good news!</strong> Lockd has thwarted 391 attacks on your server in the last week!</p>
+          <p><strong>Good news!</strong> Fortress.io has thwarted 391 attacks on your server in the last week!</p>
         </div>
 
       <!-- Main hero unit for a primary marketing message or call to action -->
-      <div class="hero-unit">
+      <div class="hero-unit" style="margin-top: 20px;">
         <h2>User Activity</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
 

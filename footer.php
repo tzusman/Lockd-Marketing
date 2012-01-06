@@ -3,10 +3,12 @@
         <? if ( ! preg_match('#demo_#',$_SERVER['REQUEST_URI']) ): ?>
         <a class="btn success" href="/demo_dashboard.php" style="float:right">View Demo</a>
         <? endif; ?>
-        <p>&copy; Lockd 2011</p>
+        <p>&copy; Fortress.io 2011</p>
       </footer>
 
     </div> <!-- /container -->
+
+    <br />
 
     <script src="jquery.min.js"></script>
     <script>

@@ -1,6 +1,6 @@
 <? require 'header.php'; ?>
 
-      <div class="hero-unit">
+      <div class="hero-unit" style="margin-top: 80px;">
 
         <h2>Security Dashboard</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>

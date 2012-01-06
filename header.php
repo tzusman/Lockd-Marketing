@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Lockd: Enterprise Security, fast!</title>
+    <title>Fortress.io: Enterprise Security, done.</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -12,7 +12,7 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="/css/bootstrap-1.1.1.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/prettify.css" rel="stylesheet">
 
     <!-- Le fav and touch icons -->
@@ -28,7 +28,7 @@
       <div class="fill">
         <div class="container">
 
-          <h3><a href="index.php">Lockd</a></h3>
+          <h3><a href="index.php">Fortress.io</a></h3>
 
           <ul>
             <? if ( preg_match('#demo_#',$_SERVER['REQUEST_URI']) ): ?>

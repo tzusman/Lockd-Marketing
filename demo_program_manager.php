@@ -1,6 +1,6 @@
 <? require 'header.php'; ?>
 
-        <div class="alert-message error" style="margin: 80px 0 -20px;">
+        <div class="alert-message error" style="margin: 60px 0 0;">
           <a class="close" href="#">×</a>
           <p><strong>Vulnerability Detected!</strong> Memcached is accessible to the global internet. You should restrict access to only your servers.</p>
           <div class="alert-actions">
@@ -10,7 +10,7 @@
         </div>
 
       <!-- Main hero unit for a primary marketing message or call to action -->
-      <div class="hero-unit">
+      <div class="hero-unit" style="margin-top: 20px;">
         <h2>Program Manager</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
 
